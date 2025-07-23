@@ -39,6 +39,6 @@ Este proyecto es un sistema de gestión de productos hecho en **Java** con conex
 ## Autor
 
 Emmanuel Alejandro Arevalo Aceves  
-GitHub: @EmmanuelArevaloAceves
-LinkedIn:( https://www.linkedin.com/in/emmanuel-alejandro-arevalo-aceves/ )
-Correo electrónico: emmanuel.arevalo.trabajo@gmail.com
+- GitHub: @EmmanuelArevaloAceves
+- LinkedIn:( https://www.linkedin.com/in/emmanuel-alejandro-arevalo-aceves/ )
+- Correo electrónico: emmanuel.arevalo.trabajo@gmail.com
