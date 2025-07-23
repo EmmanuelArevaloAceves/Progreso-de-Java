@@ -55,11 +55,11 @@ Sistema de Inventario con conexión a base de datos, operaciones completas y men
 ## Autor
 
 **Emmanuel Alejandro Arévalo Aceves**  
-📍 Guadalajara, México  
-📧 [emmanuel.arevalo.trabajo@gmail.com]
-GitHub: @EmmanuelArevaloAceves
-LinkedIn:( https://www.linkedin.com/in/emmanuel-alejandro-arevalo-aceves/ )  
-🛠️ Estudiante de Ingeniería en Sistemas Computacionales  
-💼 Preparado para posiciones Junior en Java y SQL
+- Guadalajara, México  
+- Mail: [emmanuel.arevalo.trabajo@gmail.com]
+- GitHub: @EmmanuelArevaloAceves
+- LinkedIn:( https://www.linkedin.com/in/emmanuel-alejandro-arevalo-aceves/ )  
+- Estudiante de Ingeniería en Sistemas Computacionales  
+- Preparado para posiciones Junior en Java y SQL
 
 
